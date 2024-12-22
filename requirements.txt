@@ -1,0 +1,5 @@
+python-telegram-bot==21.9
+aiosqlite==0.20.0
+nest_asyncio==1.6.0
+httpx==0.24.0
+typing_extensions==4.5.0
